@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:movie_app/injection_container.dart';
 import 'package:movie_app/presentation/blocs/search_movie/search_movie_bloc.dart';
-import 'package:movie_app/presentation/screens/home/detail_screen.dart';
 import 'package:movie_app/presentation/screens/search_movies/search_movie_delegate.dart';
 
 class HomeScreen extends StatefulWidget {
