@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:movie_app/data/core/api-constants.dart';
 import 'package:movie_app/domain/entities/movie_entity.dart';
-import 'package:movie_app/presentation/screens/home/detail_screen.dart';
+import 'package:movie_app/presentation/screens/movie_detail/detail_screen.dart';
 
 class SearchMovieCard extends StatelessWidget {
   final MovieEntity movie;
